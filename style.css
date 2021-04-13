@@ -1,0 +1,56 @@
+#paragraph1_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+#paragraph2_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+
+#showparagraph1
+{
+	border: 1px solid green;
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
+#showparagraph2
+{
+	border: 1px solid green;
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
+.flex-container
+{
+	display: flex;
+}
+
+.flex-rows
+{
+	flex: 1;
+}
+
+.button {
+	background-color:yellow;
+	border-width: 100px;
+	border: black;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+  }
